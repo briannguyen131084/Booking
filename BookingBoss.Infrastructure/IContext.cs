@@ -1,0 +1,23 @@
+﻿using System;
+using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
+using System.Threading.Tasks;
+using BookingBoss.Domain;
+
+namespace BookingBoss.Infrastructure
+{
+    public interface IContext : IDisposable
+    {
+        DbSet<ProductEntity> Products { get; set; }
+        DbSet<UserEntity> Users { get; set; }
+
+        // DbContext
+        DbContextConfiguration Configuration { get; }
+        Database Database { get; }
+
+        DbSet<TEntity> Set<TEntity>() where TEntity : class;
+        DbEntityEntry<TEntity> Entry<TEntity>(TEntity entity) where TEntity : class;
+        int SaveChanges();
+        Task<int> SaveChangesAsync();
+    }
+}

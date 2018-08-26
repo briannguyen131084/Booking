@@ -1,0 +1,5 @@
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\bin\Release\BookingBoss.Domain.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\bin\Release\BookingBoss.Domain.pdb
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\obj\Release\BookingBoss.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\obj\Release\BookingBoss.Domain.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\obj\Release\BookingBoss.Domain.pdb

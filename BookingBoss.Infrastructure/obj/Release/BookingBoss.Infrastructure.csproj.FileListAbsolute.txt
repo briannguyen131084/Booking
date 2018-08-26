@@ -1,0 +1,17 @@
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\BookingBoss.Infrastructure.dll.config
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\BookingBoss.Infrastructure.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\BookingBoss.Infrastructure.pdb
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\Autofac.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\BookingBoss.Domain.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\EntityFramework.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\BookingBoss.Domain.pdb
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\Autofac.xml
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\EntityFramework.xml
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\obj\Release\BookingBoss.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\obj\Release\BookingBoss.Infrastructure.Migrations.Initial.resources
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\obj\Release\BookingBoss.Infrastructure.csproj.GenerateResource.Cache
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\obj\Release\BookingBoss.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\obj\Release\BookingBoss.Infrastructure.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Infrastructure\obj\Release\BookingBoss.Infrastructure.pdb

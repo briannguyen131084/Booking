@@ -1,0 +1,10 @@
+E:\Test\BookingBossTest\BookingBoss.Domain\bin\Debug\BookingBoss.Domain.dll
+E:\Test\BookingBossTest\BookingBoss.Domain\bin\Debug\BookingBoss.Domain.pdb
+E:\Test\BookingBossTest\BookingBoss.Domain\obj\Debug\BookingBoss.Domain.csprojResolveAssemblyReference.cache
+E:\Test\BookingBossTest\BookingBoss.Domain\obj\Debug\BookingBoss.Domain.dll
+E:\Test\BookingBossTest\BookingBoss.Domain\obj\Debug\BookingBoss.Domain.pdb
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\bin\Debug\BookingBoss.Domain.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\bin\Debug\BookingBoss.Domain.pdb
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\obj\Debug\BookingBoss.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\obj\Debug\BookingBoss.Domain.dll
+C:\Users\BaoNguyen\Downloads\Test\BookingBossTest\BookingBoss.Domain\obj\Debug\BookingBoss.Domain.pdb
